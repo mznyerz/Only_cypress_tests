@@ -1,0 +1,15 @@
+{
+    "correctSearchOutput": {
+        "article": 2611,
+        "inputText": "2611 ор",
+        "productName": "ор"
+    },
+    "transliterationExampleRU": "Marmit dlya kartofelya fri Atesi",
+    "transliterationExampleEN": "Италфрост",
+    "layoutKeyboardExampleRU": "J[kf;lftvsq cnjk c dsldb;ysvb zobrfvb",
+    "layoutKeyboardExampleEN": "Феуын",
+    "spellingErrorsExample": {
+        "inputText":"Устеглвка компреоола",
+        "Устеглвка компреоола": "Установка  компрессора"
+    }
+}
